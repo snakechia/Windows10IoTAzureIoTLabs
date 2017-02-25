@@ -16,6 +16,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CircuitDiagram", "CircuitDi
 		..\..\..\Desktop\IoT\RP23_Pinout.png = ..\..\..\Desktop\IoT\RP23_Pinout.png
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{92EE6488-1187-4E99-9E1E-A64C594EC2FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
