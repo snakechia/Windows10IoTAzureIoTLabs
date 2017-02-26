@@ -16,18 +16,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CircuitDiagram", "CircuitDi
 		..\..\..\Desktop\IoT\RP23_Pinout.png = ..\..\..\Desktop\IoT\RP23_Pinout.png
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{92EE6488-1187-4E99-9E1E-A64C594EC2FC}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|ARM = Debug|ARM
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|ARM = Release|ARM
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|ARM.ActiveCfg = Debug|ARM
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|ARM.Build.0 = Debug|ARM
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -37,6 +38,7 @@ Global
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|x86.ActiveCfg = Debug|x86
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|x86.Build.0 = Debug|x86
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Debug|x86.Deploy.0 = Debug|x86
+		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|Any CPU.ActiveCfg = Release|x86
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|ARM.ActiveCfg = Release|ARM
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|ARM.Build.0 = Release|ARM
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|ARM.Deploy.0 = Release|ARM
@@ -46,6 +48,7 @@ Global
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|x86.ActiveCfg = Release|x86
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|x86.Build.0 = Release|x86
 		{F6441259-FF29-4580-A532-65DCEDF0B979}.Release|x86.Deploy.0 = Release|x86
+		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|ARM.ActiveCfg = Debug|ARM
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|ARM.Build.0 = Debug|ARM
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -55,6 +58,7 @@ Global
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|x86.ActiveCfg = Debug|x86
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|x86.Build.0 = Debug|x86
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Debug|x86.Deploy.0 = Debug|x86
+		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|Any CPU.ActiveCfg = Release|x86
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|ARM.ActiveCfg = Release|ARM
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|ARM.Build.0 = Release|ARM
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|ARM.Deploy.0 = Release|ARM
@@ -64,6 +68,7 @@ Global
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|x86.ActiveCfg = Release|x86
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|x86.Build.0 = Release|x86
 		{10A73A6A-2940-4F4C-8A38-ABFF3C9DF8AD}.Release|x86.Deploy.0 = Release|x86
+		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|Any CPU.ActiveCfg = Debug|x86
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|ARM.ActiveCfg = Debug|ARM
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|ARM.Build.0 = Debug|ARM
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|ARM.Deploy.0 = Debug|ARM
@@ -73,6 +78,7 @@ Global
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|x86.ActiveCfg = Debug|x86
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|x86.Build.0 = Debug|x86
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Debug|x86.Deploy.0 = Debug|x86
+		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Release|Any CPU.ActiveCfg = Release|x86
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Release|ARM.ActiveCfg = Release|ARM
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Release|ARM.Build.0 = Release|ARM
 		{7B16B85C-5F62-4E79-8DC6-EA6005B2EA70}.Release|ARM.Deploy.0 = Release|ARM

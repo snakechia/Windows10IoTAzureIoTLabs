@@ -39,8 +39,8 @@ namespace SenseHAT
 
         // Lab 8
         DeviceClient deviceClient;
-        string deviceName = "test";
-        string deviceconnectionstring = "HostName=SCIoTDemo.azure-devices.net;DeviceId=test;SharedAccessKey=Z87GOjXWXIYle1rchzR9vzRjiNoNoHS67hYdsBOWr5E=";
+        string deviceName = "<Your Device Name>";
+        string deviceconnectionstring = "Your Device Connnection String";
         
         public MainPage()
         {
