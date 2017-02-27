@@ -1,6 +1,9 @@
 # Windows10IoTAzureIoTLabs
 This lab samples currently contains three separate projects.
 
+### Lab Manual
+[Microsoft Windows 10 IoT Core & Azure IoT Lab Manual] (https://github.com/snakechia/Windows10IoTAzureIoTLabs/blob/master/Microsoft%20IoT%20Workshop%20Lab%20File.pdf)
+
 ### Lab 1: Blinking LED
 Blinking LED is to demonstrate a headed UWP for Windows 10 IoT Core, which user can click the button to initial LED blinking. 
 
