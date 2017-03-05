@@ -40,7 +40,7 @@ namespace SenseHAT
         // Lab 8
         DeviceClient deviceClient;
         string deviceName = "<Your Device Name>";
-        string deviceconnectionstring = "Your Device Connnection String";
+        string deviceconnectionstring = "<Your Device Connnection String>";
         
         public MainPage()
         {
@@ -50,10 +50,12 @@ namespace SenseHAT
             timer.Interval = TimeSpan.FromSeconds(5);
             timer.Tick += Timer_Tick;
 
-            // Lab 8
-            deviceClient = DeviceClient.CreateFromConnectionString(deviceconnectionstring);
-
-            ReceiveDataFromAzureIoTHub();
+            #region Lab 8 Codes : Uncomments the following for Lab 8
+            //deviceClient = DeviceClient.CreateFromConnectionString(deviceconnectionstring);
+            
+            //// Listen to Azure IoT Hub
+            //ReceiveDataFromAzureIoTHub();
+            #endregion
         }
 
         private void Timer_Tick(object sender, object e)
@@ -91,9 +93,11 @@ namespace SenseHAT
 
             displayDataOn8x8();
 
-            sensordata.deviceId = deviceName;
-            string message = JsonConvert.SerializeObject(sensordata);
-            sendDataToAzureIoTHub(message);
+            #region Lab 8 Codes : Uncomments the following for Lab 8
+            //sensordata.deviceId = deviceName;
+            //string message = JsonConvert.SerializeObject(sensordata);
+            //sendDataToAzureIoTHub(message);
+            #endregion
         }
 
         // Display value on 8x8 LED Matrix using TinyFont
