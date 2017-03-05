@@ -1,4 +1,3 @@
-Vis [
 # Windows10IoTAzureIoTLabs
 This lab samples currently contains three separate projects.
 
