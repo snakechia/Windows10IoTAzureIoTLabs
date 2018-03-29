@@ -19,5 +19,5 @@ SenseHAT is a basic Weather Station using data collected via sensors on Sense HA
 * [Windows 10 IoT Core Dashboard]
 (http://go.microsoft.com/fwlink/?LinkID=708576)
 *	[Device Explorer (Scroll down for for SetupDeviceExplorer.msi) ]
-(https://github.com/Azure/azure-iot-sdks/releases) 
+(https://github.com/Azure/azure-iot-sdk-csharp/releases) 
 * Windows IoT Remote Client (Windows Store Apps)
